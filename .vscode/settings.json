@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.inc": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "iostream": "cpp"
     }
 }
