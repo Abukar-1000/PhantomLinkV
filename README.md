@@ -1,1 +1,1 @@
-<img width="100vw" src="Assets/IMGS/PhantomLinkHeader.png">
+<img width="100%" src="Assets/IMGS/PhantomLinkHeader.png">
